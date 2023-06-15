@@ -1,0 +1,24 @@
+body{
+    min-height: 1000px;
+}
+
+p{
+    text-align: justify;
+}
+
+.lead{
+    text-align: center;
+}
+
+.jumbotron {
+    padding-top: 6rem;
+    background-color: #ffef97;
+}
+
+#port{
+    background-color: #ffef97; 
+}
+
+section{
+    padding-top: 4rem;
+}
